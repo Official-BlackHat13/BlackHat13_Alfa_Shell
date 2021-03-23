@@ -1,2 +1,4 @@
-# BlackHat13_Alfa_Shell_
-Php Web Shell By BlackHat13
+# BlackHat13_Alfa_Shell
+
+Php Web Shell By BlackHat13 
+Credit to @solevisible
